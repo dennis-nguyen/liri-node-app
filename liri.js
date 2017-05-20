@@ -29,7 +29,11 @@ function choice(command, commandInput) {
 }
 choice(command, commandInput);
 
-function spotifyThisSong(songTitle) {
+function spotifyThisSong(songInput) {
+    songTitle = songInput;
+    if (songInput === undefined) {
+        songTitle = "Ace of Base - The Sign";
+    }
     var songArray = [];
     spotify.search({
         type: 'track',
@@ -49,7 +53,11 @@ function spotifyThisSong(songTitle) {
     });
 }
 //OMDB WENT PRIVATE - SWITCH TO IMDB MODULE?
-function movieThis(movieTitle) {
+function movieThis(movieInput) {
+    movieTitle = movieInput;
+    if (movieInput === undefined) {
+        movieTitle = "Mr Nobody";
+    }
     var movieArray = [];
     var title = movieTitle.split(" ").join("+");
     request("http://www.omdbapi.com/?t=" + title + "&y=&plot=short&r=json", (error, response, body) => {
@@ -64,7 +72,7 @@ function movieThis(movieTitle) {
             movieArray.push("Actors: " + JSON.parse(body).Actors); //ACTORS IN THE MOVIE
             movieArray.push("------------------------------------------------");
         } else {
-            movieArray.push("Error: " + error);
+            movieArray.push("Error: OMDB needs an API key now " + error);
         }
         log(movieArray);
     });
