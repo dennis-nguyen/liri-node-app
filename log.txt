@@ -1812,3 +1812,248 @@ Error: null
 Error: null
 Error: null
 Error: OMDB needs an API key now null
+Artist:Eminem
+Track: Rap God
+Preview URL: null
+------------------------------------------------
+Album Name: The Marshall Mathers LP2 (Deluxe)
+Artist:Eminem
+Track: Rap God
+Preview URL: https://p.scdn.co/mp3-preview/1b76731f46d02ec6a153261690dad99a16d6305a?cid=null
+Album Name: Rap God
+------------------------------------------------
+Artist:Eminem
+Track: Rap God
+Preview URL: null
+Album Name: The Marshall Mathers LP2
+------------------------------------------------
+Artist:The Animal In Me
+Track: Rap God
+Preview URL: https://p.scdn.co/mp3-preview/db75550c2bb181f7f40d5bcf5cae69ad687d11fa?cid=null
+Album Name: Rap God
+------------------------------------------------
+Artist:Eminem
+Track: Rap God
+Preview URL: https://p.scdn.co/mp3-preview/2e1fea69a90b85848384c2193dd6a4a23a496df0?cid=null
+Album Name: The Marshall Mathers LP2
+------------------------------------------------
+Artist:Eminem
+Track: Rap God
+Preview URL: https://p.scdn.co/mp3-preview/9d0c7cd1b961bfd2f31dab06d5cb73fc74c75bad?cid=null
+Album Name: Rap God
+------------------------------------------------
+Artist:Eminem
+Track: Rap God
+Preview URL: null
+Album Name: The Marshall Mathers LP2
+------------------------------------------------
+Artist:DJ Crazy J Rodriguez
+Track: Rap God
+Album Name: Dubstep, Vol. 7
+------------------------------------------------
+Artist:Block McCloud
+Preview URL: https://p.scdn.co/mp3-preview/cf218573c1e629077458184fcf50eb2fa69127e4?cid=null
+Track: Wolves Amongst the Sheep (feat. Kool G. Rap & Block McCloud)
+Preview URL: https://p.scdn.co/mp3-preview/05f8a2d5a75bf6ad4bd6386136be34f5231eb9e7?cid=null
+Album Name: God of the Serengeti
+------------------------------------------------
+Artist:J.T. Machinima
+Track: Mob Rap IV
+Preview URL: https://p.scdn.co/mp3-preview/2398701e90a94d0b3198e929f0ab84d592edae42?cid=null
+Album Name: God Mode
+------------------------------------------------
+Artist:Palmmute Productions
+Track: Rap God (NLJ & Palmmute Remix)
+Preview URL: https://p.scdn.co/mp3-preview/ba6170f02936c668846d0d71a92d6b99772405b5?cid=null
+Album Name: Rap God (NLJ & Palmmute Remix)
+------------------------------------------------
+Artist:Apache
+Track: God Level 3
+Preview URL: https://p.scdn.co/mp3-preview/8e7560351086b0af56022d0ea64a89530d5761e6?cid=null
+Album Name: Rap Chileno El Sur Es Hardcore Godlevel Enfermos Del Rap
+------------------------------------------------
+Artist:Afu-Ra
+Track: God of Rap
+Preview URL: https://p.scdn.co/mp3-preview/f2889fee7867ad8c3ffc2af5503098bedc39fca9?cid=null
+Album Name: State of the Arts
+------------------------------------------------
+Artist:Bruto Chr
+Track: God Level 4
+Preview URL: https://p.scdn.co/mp3-preview/1e526b311fb8d78db505cbb994a767399b67ac54?cid=null
+Album Name: Rap Chileno El Sur Es Hardcore Godlevel Enfermos Del Rap
+------------------------------------------------
+Artist:Zarcort
+Track: God of War
+Preview URL: https://p.scdn.co/mp3-preview/a990f8c3fc18f1cdcfda9c41a0936ce22aa07255?cid=null
+Album Name: Rap Plays #1
+------------------------------------------------
+Artist:Street Life
+Track: Semi Automatic: Full Rap Metal Jacket
+Preview URL: https://p.scdn.co/mp3-preview/ed65108af66f837ab320c577f770a68506a1e1cb?cid=null
+Album Name: Wu Tang Vs. Shaolin Masters
+------------------------------------------------
+Artist:J.T. Machinima
+Track: Watch Dogs Rap
+Preview URL: https://p.scdn.co/mp3-preview/7555e863cd620db2fdddab73c07146a3c9191c80?cid=null
+Album Name: God Mode
+------------------------------------------------
+Artist:Bubazeta
+Track: God Level 2
+Preview URL: https://p.scdn.co/mp3-preview/6a1244e897b77cbfd8a48aedb3f11fc485d3b237?cid=null
+Album Name: Rap Chileno El Sur Es Hardcore Godlevel Enfermos Del Rap
+------------------------------------------------
+Artist:Gran Rah
+Track: God Level 1
+Preview URL: https://p.scdn.co/mp3-preview/2ebe8216f86e477b44b13e64f4af06b1b375fb99?cid=null
+Album Name: Rap Chileno El Sur Es Hardcore Godlevel Enfermos Del Rap
+------------------------------------------------
+Artist:Wu-Tang Clan
+Track: Grid Iron Rap
+Preview URL: https://p.scdn.co/mp3-preview/86945cc7247dc5e478f01ce6490cbdfcb1674e53?cid=null
+Album Name: Live at Montreux
+------------------------------------------------
+------------------------------------------------
+Movie Title: Godzilla
+Year Released: 2014
+IMDB Rating: 6.4
+Country: USA, Japan
+Plot: The world is beset by the appearance of monstrous creatures, but one of them may be the only one who can save humanity.
+Actors: Aaron Taylor-Johnson, CJ Adams, Ken Watanabe, Bryan Cranston
+------------------------------------------------
+Language: English, Japanese
+------------------------------------------------
+Movie Title: Guardians
+Year Released: 2009
+IMDB Rating: 2.9
+Country: USA
+Language: English
+Plot: Twilight Cove, a small forgotten town, is besieged by hideous creatures summoned into our dimension. It's only a matter of time before the army of creatures attacks the rest of civilization...
+Actors: Chris Bell, Benjamin Budd, Tylan Canady, Eric Cherney
+------------------------------------------------
+------------------------------------------------
+Movie Title: Guardians
+Year Released: 2009
+IMDB Rating: 2.9
+Country: USA
+Language: English
+Plot: Twilight Cove, a small forgotten town, is besieged by hideous creatures summoned into our dimension. It's only a matter of time before the army of creatures attacks the rest of civilization...
+Actors: Chris Bell, Benjamin Budd, Tylan Canady, Eric Cherney
+------------------------------------------------
+------------------------------------------------
+Movie Title: Guardians of the Galaxy
+Year Released: 2014
+Language: English
+Country: USA, UK
+Plot: A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.
+Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+IMDB Rating: 8.1
+------------------------------------------------
+------------------------------------------------
+Movie Title: Mr. Nobody
+Year Released: 2009
+IMDB Rating: 7.9
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+------------------------------------------------
+Artist:Ace of Base
+Track: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+Album Name: The Sign (US Album) [Remastered]
+------------------------------------------------
+Artist:Ace of Base
+Track: All That She Wants
+Preview URL: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=null
+Album Name: The Sign (US Album) [Remastered]
+------------------------------------------------
+Artist:Ace of Base
+Track: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=null
+Album Name: Greatest Hits
+------------------------------------------------
+Artist:Ace of Base
+Track: Don't Turn Around
+Preview URL: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=null
+Album Name: The Sign (US Album) [Remastered]
+------------------------------------------------
+Artist:Ace of Base
+Track: Wheel of Fortune
+Preview URL: https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=null
+Album Name: The Sign (US Album) [Remastered]
+------------------------------------------------
+Artist:Ace of Base
+Track: Living in Danger
+Preview URL: https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=null
+Album Name: The Sign (US Album) [Remastered]
+------------------------------------------------
+Artist:Ace of Base
+Track: Happy Nation
+Preview URL: https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=null
+Album Name: The Sign (US Album) [Remastered]
+------------------------------------------------
+Artist:Ace of Base
+Track: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/02965a67aeec3b3775c91ec1e391ce164c76e488?cid=null
+Album Name: Happy Nation (U.S. Version) [Remastered]
+------------------------------------------------
+Artist:Ace of Base
+Track: Young and Proud
+Preview URL: https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=null
+Album Name: The Sign (US Album) [Remastered]
+------------------------------------------------
+Artist:Ace of Base
+Track: Dancer in a Daydream
+Preview URL: https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=null
+Album Name: The Sign (US Album) [Remastered]
+------------------------------------------------
+Artist:Ace of Base
+Track: Waiting for Magic - Total Remix 7" Version
+Preview URL: https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=null
+Album Name: The Sign (US Album) [Remastered]
+------------------------------------------------
+Artist:Ace of Base
+Track: Voulez-Vous danser
+Preview URL: https://p.scdn.co/mp3-preview/59e0c99409733c86980e74a829b11e058b2af822?cid=null
+Album Name: The Sign (US Album) [Remastered]
+------------------------------------------------
+Artist:Ace of Base
+Track: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=null
+Album Name: The Sign (The Remixes)
+------------------------------------------------
+Artist:Ace of Base
+Track: My Mind - Mindless Mix
+Preview URL: https://p.scdn.co/mp3-preview/d69b572cb2ab4e83492dbe2b3b2dad747440dd72?cid=null
+Album Name: The Sign (US Album) [Remastered]
+------------------------------------------------
+Artist:Ace of Base
+Track: All That She Wants - Banghra Version
+Preview URL: https://p.scdn.co/mp3-preview/25887b631bc11ce0486bd8798d02d6597d889b7e?cid=null
+Album Name: The Sign (US Album) [Remastered]
+------------------------------------------------
+Artist:Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/0a017e093af7ab63b9609c5391a0ebbec7423553?cid=null
+------------------------------------------------
+Track: Mr Ace - Demo 1991 Bonus Track
+Album Name: The Sign (US Album) [Remastered]
+Track: The Sign - Long Version
+Preview URL: https://p.scdn.co/mp3-preview/0f314a0cc1fbb59cd6934437bef37eb14b738480?cid=null
+Album Name: The Sign (The Remixes)
+Artist:Ace of Base
+------------------------------------------------
+Artist:Ace of Base
+Track: The Sign - Ultimix
+Preview URL: https://p.scdn.co/mp3-preview/2c3e2f82c037557abc04c1a2d76b828c4d521838?cid=null
+Album Name: The Sign (The Remixes)
+------------------------------------------------
+Artist:Ace of Base
+Track: The Sign - Long Version
+Preview URL: https://p.scdn.co/mp3-preview/ccf516ab83dc899b53817816665cd42388cf6724?cid=null
+Album Name: The Sign (The Remixes)
+------------------------------------------------
+Artist:Ace of Base
+Track: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=null
+Album Name: The Sign (The Remixes)
+------------------------------------------------

@@ -52,7 +52,7 @@ function spotifyThisSong(songInput) {
         log(songArray);
     });
 }
-//OMDB WENT PRIVATE - SWITCH TO IMDB MODULE?
+
 function movieThis(movieInput) {
     movieTitle = movieInput;
     if (movieInput === undefined) {
@@ -60,7 +60,7 @@ function movieThis(movieInput) {
     }
     var movieArray = [];
     var title = movieTitle.split(" ").join("+");
-    request("http://www.omdbapi.com/?t=" + title + "&y=&plot=short&r=json", (error, response, body) => {
+    request("http://www.omdbapi.com/?apikey=40e9cece&t=" + title + "&y=&plot=short&r=json", (error, response, body) => {
         if (!error && response.statusCode === 200) {
             movieArray.push("------------------------------------------------");
             movieArray.push("Movie Title: " + JSON.parse(body).Title); //TITLE 
@@ -105,10 +105,18 @@ function myTweets() {
 }
 
 function log(logInput) {
-    for (i = 0; i < logInput.length; i++) {
-        console.log(logInput[i]);
-        fs.appendFile('log.txt', logInput[i] + "\n", function (err) {
+
+    logInput.forEach(function(info) {
+        console.log(info);
+        fs.appendFile('log.txt', info + "\n", function (err) {
             if (err) throw err;
         });
-    }
+    });
+
+    // for (i = 0; i < logInput.length; i++) {
+    //     console.log(logInput[i]);
+    //     fs.appendFile('log.txt', logInput[i] + "\n", function (err) {
+    //         if (err) throw err;
+    //     });
+    // }
 }
